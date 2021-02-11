@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/green_normal</item>
+        <!--Cambiar la barra de notificaciones color-->
+        <item name="colorPrimaryDark">@color/green_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="bottomNavigation">
+        <item name="android:background">@color/green_dark</item>
+        <item name="itemIconTint">@color/green_light2</item>
+        <item name="itemTextColor">@color/green_light2</item>
+    </style>
+
+</resources>

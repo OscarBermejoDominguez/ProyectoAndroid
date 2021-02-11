@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Proyecto_la_rioja</string>
+
+    <!--Strings de la pantalla principal-->
+    <string name="titulo">LA RIOJA FP</string>
+    <string name="gradoMedioSuperior">Grado medio y superior</string>
+    <string name="fpBasica">FP Basica</string>
+    <string name="innovacionFP">Innovacion FP</string>
+    <string name="acreditacionDeCompe">Acreditacion de competencias</string>
+    <string name="normaFP">Normativa FP</string>
+    <string name="preguntas">Preguntas frecuentes</string>
+
+    <!--Strings del menu-->
+    <string name="mAyuda">MAS INFORMACION</string>
+    <string name="mBuscador">BUSCADOR</string>
+
+    <!--Descripciones de la imagenes-->
+    <string name="imgPD">Imagen que se insertara utilizando codigo</string>
+    <string name="imgFV">Imagen de una subopcion del menu</string>
+
+    <!--Opciones del tab layout de las familias con los grados profesionales-->
+    <string name="TabTodos">TODOS</string>
+    <string name="TabGradoMedio">GRADO MEDIO</string>
+    <string name="TabGradoSuperior">GRADO SUPERIOR</string>
+
+
+    <string name="EXAMEPLE">EXAMPLE</string>
+
+
+</resources>

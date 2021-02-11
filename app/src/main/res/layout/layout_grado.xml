@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Layout que contiene una descripcion y un titulo de un grado en concreto-->
+<!--Sirve para reperesentar un grado dentro del layout-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--Texto que permite indicar si el grado es un grado superior o un grado medio-->
+    <TextView
+        android:id="@+id/textoEsGrado"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/EXAMEPLE" />
+
+    <!--Datos principales del grado-->
+    <TextView
+        android:id="@+id/tituloGrado"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/EXAMEPLE"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/descripcionGrado"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/EXAMEPLE"
+        android:textSize="18sp" />
+</LinearLayout>
