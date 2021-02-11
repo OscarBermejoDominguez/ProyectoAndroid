@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="first_Fragment" type="id">firstFragment</item>
-    <item name="second_Fragment" type="id">secondFragment</item>
-    <item name="third_Fragment" type="id">thirdFragment</item>
-</resources>
