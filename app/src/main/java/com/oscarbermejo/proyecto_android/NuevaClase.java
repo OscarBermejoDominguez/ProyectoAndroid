@@ -5,4 +5,7 @@ public class NuevaClase {
     public NuevaClase(String nueva){
         this.nueva = nueva;
     }
+    private String getNueva(){
+        return nueva;
+    }
 }
