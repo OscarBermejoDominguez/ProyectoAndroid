@@ -8,4 +8,7 @@ public class NuevaClase {
     private String getNueva(){
         return nueva;
     }
+    private void setNueva(String nueva){
+        this.nueva = nueva;
+    }
 }
